@@ -86,14 +86,6 @@ Este repositorio documenta **nuestra preparación y participación** en competen
 
 ---
 
-## 🔁 Flujo de trabajo (Git)
-
-1. `main` protegido. Trabajar en ramas por feature/contest: `feat/mate-crt`, `contest/2025-08-17_cf`.
-2. Commits atómicos y descriptivos: `feat(mate): add crt_pair + tests`.
-3. PR con breve descripción (enunciado, idea, complejidad). Merge por revisor del área.
-
----
-
 ## 🗺️ Convenciones por práctica
 
 * `01-Practica/<Area>/temas/<tema>/README.md` con descripción corta + enlaces.
